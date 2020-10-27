@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+#dziala img, #sredniodziala img, #niedziala img{
+    width: 48px;
+    display: inline;
+}
+
+#dziala h3, #sredniodziala h3, #niedziala h3{
+    padding-bottom: 30px;
+    display: inline;
+}
+
+#dziala, #sredniodziala, #niedziala {
+    display: none;
+}
